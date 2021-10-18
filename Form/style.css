@@ -160,7 +160,7 @@ section .color.color:nth-child(2){
     margin-top: 5px;
     color:#fff;
 }
-.forget{
+.forget a{
     color: #fff;
     font-weight: 600;
 }
